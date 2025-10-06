@@ -15,7 +15,7 @@ short_description: YOLO-based object detection web application with support for 
 
 This simple web application based on gradio uses YOLO (You Only Look Once) to detect objects in images. The app provides a simple interface to launch the YOLO model against different sources: images, videos, etc.
 
-![image](./docs/images/image1.jpg)
+
 
 ## Inference types
 
